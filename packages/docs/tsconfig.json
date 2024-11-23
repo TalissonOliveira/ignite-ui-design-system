@@ -1,6 +1,6 @@
 {
   "files": [],
-  "extends": "@ignite-ui/ts-config/react.json",
+  "extends": "@talisson-ignite-ui/ts-config/react.json",
   "include": ["src"],
   // "references": [
   //   { "path": "./tsconfig.app.json" },

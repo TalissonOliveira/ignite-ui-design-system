@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@ignite-ui/react'
+import { Heading, HeadingProps } from '@talisson-ignite-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
